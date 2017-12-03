@@ -1,4 +1,4 @@
-//This project was created by Danica Fernandez
+//This project was created by Danni Fernandez
 
 #include <avr/power.h>
 #include "FastLED.h"
